@@ -13,7 +13,7 @@ Clone this repo to the target local directory:
 > cd ~/Sites/
 > git clone --recurse-submodules https://github.com/codemotion/cogear-preset-blog blog
 ```
-Pay attention to `--recurse-submodules` option. It's required, becase [`cogear-theme-blog`](https://github.com/codemotion/cogear-theme-blog) is presented as git [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+Pay attention to `--recurse-submodules` option. It's required, because [`cogear-theme-blog`](https://github.com/codemotion/cogear-theme-blog) is presented as git [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 Install dependencies:
 ``` shell
