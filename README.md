@@ -11,8 +11,9 @@ Make sure that [Cogear.JS](https://cogearjs.org) is installed. [How to install](
 Clone this repo to the target local directory:
 ``` shell
 > cd ~/Sites/
-> git clone https://github.com/codemotion/cogear-preset-blog blog
+> git clone --recurse-submodules https://github.com/codemotion/cogear-preset-blog blog
 ```
+Pay attention to `--recurse-submodules` option. It's required, becase [`cogear-theme-blog`](https://github.com/codemotion/cogear-theme-blog) is presented as git [submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 Install dependencies:
 ``` shell
