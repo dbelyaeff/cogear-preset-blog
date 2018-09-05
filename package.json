@@ -1,7 +1,7 @@
 {
   "name": "cogear-preset-blog",
   "description": "Preset to create a blog with Cogear.JS",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "https://github.com/codemotion/cogear-preset-blog",
   "homepage": "https://github.com/codemotion/cogear-preset-blog",
   "author": "Dmitriy Beliaev <admin@cogear.ru> (https://cogear.org/)",
