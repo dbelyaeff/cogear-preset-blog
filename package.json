@@ -6,9 +6,7 @@
   "homepage": "https://github.com/codemotion/cogear-preset-blog",
   "author": "Dmitriy Beliaev <admin@cogear.ru> (https://cogear.org/)",
   "license": "MIT",
-  "dependencies": {
-    "cogear-plugin-blog": "1.0.4"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^5.5.0"
   }
